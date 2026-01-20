@@ -1,4 +1,4 @@
-<h1 align="center">About me 🙂 안녕하세요 배워나가는 개발자가 되고싶은 전민경입니다!</h1>
+<h2 align="center">About me 🙂 안녕하세요 배워나가는 개발자가 되고싶은 전민경입니다!</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
