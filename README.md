@@ -1,6 +1,6 @@
 ## About me 👋
 
-< h1 align="left">안녕하세요 😊 계속 배워나가는 개발자가 되고싶은 전민경입니다.
+< h1 align="left">안녕하세요 😊 계속 배워나가는 개발자가 되고싶은 전민경입니다. </h1>
 <!--
 **jeon1105/jeon1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
